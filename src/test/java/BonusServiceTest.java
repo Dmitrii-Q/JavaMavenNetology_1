@@ -66,22 +66,3 @@ public class BonusServiceTest {
         assertEquals(expected, actual);
     }
 }
-
-// [INFO] -------------------------------------------------------
-[INFO]  T E S T S
-[INFO] -------------------------------------------------------
-[INFO] Running BonusServiceTest
-[INFO] Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.08 s - in BonusServiceTest
-[INFO] 
-[INFO] Results:
-[INFO] 
-[INFO] Tests run: 4, Failures: 0, Errors: 0, Skipped: 0
-[INFO] 
-[INFO] ------------------------------------------------------------------------
-[INFO] BUILD SUCCESS
-[INFO] ------------------------------------------------------------------------
-[INFO] Total time:  11.876 s
-[INFO] Finished at: 2023-05-23T12:07:12+03:00
-[INFO] ------------------------------------------------------------------------
-
-Process finished with exit code 0
